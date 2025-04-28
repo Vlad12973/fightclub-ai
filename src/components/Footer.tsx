@@ -20,7 +20,7 @@ const Footer = () => {
               </span>
             </Link>
             <p className="text-sm text-muted-foreground">
-              © {new Date().getFullYear()} codeflex.ai - All rights reserved
+              © {new Date().getFullYear()} Fightclub.ai - Jayanth Sai Sivanand
             </p>
           </div>
 
